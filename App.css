@@ -493,15 +493,3 @@ p .fa-brands {
     margin-left: 20px
 }
 
-<script>
-window.embeddedChatbotConfig = {
-chatbotId: "GHugkVDW1e5AFRZtw9Y8N",
-domain: "www.chatbase.co"
-}
-</script>
-<script
-src="https://www.chatbase.co/embed.min.js"
-chatbotId="GHugkVDW1e5AFRZtw9Y8N"
-domain="www.chatbase.co"
-defer>
-</script>
